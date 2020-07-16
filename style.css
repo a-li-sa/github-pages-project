@@ -5,7 +5,11 @@
 
 body {
   background: url(http://selectbutton.jp/apps/manbo_en/img/bg.png);
+<<<<<<< HEAD
   margin: 100px;
+=======
+  margin: 20px;
+>>>>>>> 888122c76b98b4c241406cb178e496648674be1d
 }
 
 .center {
